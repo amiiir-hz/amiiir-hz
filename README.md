@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋<br><br>I'm a front-end developer with 2 years of experience. I'm good at managing projects and teams, and I'm always looking for new challenges and opportunities to learn. I'm passionate about creating beautiful and user-friendly web applications using HTML, CSS, JavaScript, React, and other technologies.
+# Hi there 👋<br><br>Welcome to my GitHub profile! I'm a front-end developer with 2 years of professional experience in building and maintaining web applications. I have a strong background in project management and leadership, and I enjoy working in collaborative and agile environments. I'm always eager to learn new skills and technologies, and to take on new challenges and responsibilities. My goal is to create web applications that are not only functional and performant, but also aesthetically pleasing and user-friendly.
 
 
 ## 🌐 Socials:
